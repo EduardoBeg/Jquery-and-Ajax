@@ -1,0 +1,24 @@
+
+body{
+  font: 20px Arial, serif 
+}
+.quem-somos{
+    background-color:#F2F2F2;
+}
+.margin {
+  padding-top: 8px;
+  padding-bottom: 50px;
+}
+.parceiros{
+  background-color:#E6E6E6;
+}
+.serviços{
+  background-color: #D8D8D8;
+}
+.rodape{
+  padding-top: 8px;
+  background-color: black;
+  color: #585858;
+  padding-top: 15px;
+  padding-bottom: 1px;
+}
